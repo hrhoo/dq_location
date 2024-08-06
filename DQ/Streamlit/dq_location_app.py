@@ -243,22 +243,22 @@ def draw_bar_chart_prov(df_by_prov: pd.DataFrame):
 # Load the data
 @st.cache_data
 def load_data():
-    df_by_prov = pd.read_csv("DQ_location_gby_p.csv")
-    df_location = pd.read_csv("DQ_location_with_no_dup.csv")
-    df_by_city = pd.read_csv("DQ_location_gby_c.csv")
+    df_by_prov = pd.read_csv("./DQ_location_gby_p.csv")
+    df_location = pd.read_csv("./DQ_location_with_no_dup.csv")
+    df_by_city = pd.read_csv("./DQ_location_gby_c.csv")
     return df_by_prov, df_location, df_by_city
 
 # Load the data
 @st.cache_data
 def load_geojson():
-    with open("canada_provinces.geo.json", encoding="utf-8") as json_data:
+    with open("./canada_provinces.geo.json", encoding="utf-8") as json_data:
         cad_geo = json.load(json_data)
     return cad_geo
 
 def main():
     st.set_page_config(page_title=APP_NAME, page_icon="🍦", layout="wide")
     with st.container():
-        st.image("dq_location/DQ/Streamlit/DQ_logo.png", width=100)
+        st.image("./DQ_logo.png", width=100)
     st.title(APP_NAME)
     st.caption(APP_SUBTITLE)
 
