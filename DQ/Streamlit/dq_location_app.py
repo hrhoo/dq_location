@@ -258,7 +258,7 @@ def load_geojson():
 def main():
     st.set_page_config(page_title=APP_NAME, page_icon="🍦", layout="wide")
     with st.container():
-        st.image("img/DQ_logo.png", width=100)
+        st.image("dq_location/DQ/Streamlit/DQ_logo.png", width=100)
     st.title(APP_NAME)
     st.caption(APP_SUBTITLE)
 
