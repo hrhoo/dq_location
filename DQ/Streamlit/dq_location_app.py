@@ -239,6 +239,11 @@ def draw_bar_chart_prov(df_by_prov: pd.DataFrame):
     # Display the Altair chart in Streamlit
     st.altair_chart(bar_chart, use_container_width=True)
     return
+def initialize_checkboxes(provinces):
+    if 'initialized' not in st.session_state:
+        for province in provinces:
+            st.session_state["dynamic_checkbox_" + province] = True
+        st.session_state['initialized'] = True
 
 # Load the data
 @st.cache_data
@@ -321,7 +326,10 @@ def main():
         st.session_state["Province"] = Province
     else:
         Province = st.session_state["Province"]
-
+        
+    # initializing checkboxes
+    initialize_checkboxes(Province)
+    
     # Display the map and the bar chart
     col1_1, col1_2, col1_3 = st.columns([1, 2, 2])
     with col1_1:
