@@ -146,7 +146,7 @@ def double_map(df_location: pd.DataFrame, cad_geo: dict):
         f.add_to(iframe)
         
         # Add the figure to the popup
-        popup = fo.Popup(iframe, max_width=2650)
+        popup = fo.Popup(iframe)
         geo_m.add_child(popup)
         
         # Add the geojson layer to the main map
