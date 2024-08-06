@@ -1,0 +1,392 @@
+Province,City,City_compare
+ab,airdrie,Airdrie
+ab,athabasca,Athabasca
+ab,barrhead,Barrhead
+ab,beaumont,Beaumont
+ab,black-diamond,Black Diamond
+ab,blackfalds,Blackfalds
+ab,bonnyville,Bonnyville
+ab,brooks,Brooks
+ab,calgary,Calgary
+ab,camrose,Camrose
+ab,canmore,Canmore
+ab,cardston,Cardston
+ab,chestermere,Chestermere
+ab,claresholm,Claresholm
+ab,coaldale,Coaldale
+ab,cochrane,Cochrane
+ab,cold-lake,Cold Lake
+ab,devon,Devon
+ab,didsbury,Didsbury
+ab,drayton-valley,Drayton Valley
+ab,drumheller,Drumheller
+ab,edmonton,Edmonton
+ab,edson,Edson
+ab,fairview,Fairview
+ab,fort-macleod,Fort Macleod
+ab,fort-mcmurray,Fort Mcmurray
+ab,fort-saskatchewan,Fort Saskatchewan
+ab,gibbons,Gibbons
+ab,grand-prairie,Grand Prairie
+ab,grande-cache,Grande Cache
+ab,grande-prairie,Grande Prairie
+ab,high-level,High Level
+ab,high-prairie,High Prairie
+ab,high-river,High River
+ab,hinton,Hinton
+ab,innisfail,Innisfail
+ab,lacombe,Lacombe
+ab,langdon,Langdon
+ab,leduc,Leduc
+ab,lethbridge,Lethbridge
+ab,lloydminster,Lloydminster
+ab,medicine-hat,Medicine Hat
+ab,morinville,Morinville
+ab,nanton,Nanton
+ab,okotoks,Okotoks
+ab,olds,Olds
+ab,peace-river,Peace River
+ab,penhold,Penhold
+ab,pincher-creek,Pincher Creek
+ab,ponoka,Ponoka
+ab,raymond,Raymond
+ab,red-deer,Red Deer
+ab,rimbey,Rimbey
+ab,rocky-mountain-house,Rocky Mountain House
+ab,rocky-view,Rocky View
+ab,sherwood-park,Sherwood Park
+ab,slave-lake,Slave Lake
+ab,spruce-grove,Spruce Grove
+ab,st-paul,St Paul
+ab,st-albert,St Albert
+ab,stettler,Stettler
+ab,stony-plain,Stony Plain
+ab,strathmore,Strathmore
+ab,sundre,Sundre
+ab,sylvan-lake,Sylvan Lake
+ab,taber,Taber
+ab,tsuutina-nation,Tsuutina Nation
+ab,valleyview,Valleyview
+ab,vegreville,Vegreville
+ab,wainwright,Wainwright
+ab,westlock,Westlock
+ab,wetaskiwin,Wetaskiwin
+ab,whitecourt,Whitecourt
+bc,100-mile-house,100 Mile House
+bc,abbotsford,Abbotsford
+bc,aldergrove,Aldergrove
+bc,armstrong,Armstrong
+bc,burnaby,Burnaby
+bc,cache-creek,Cache Creek
+bc,campbell-river,Campbell River
+bc,castlegar,Castlegar
+bc,chilliwack,Chilliwack
+bc,clearwater,Clearwater
+bc,coquitlam,Coquitlam
+bc,courtenay,Courtenay
+bc,cranbrook,Cranbrook
+bc,creston,Creston
+bc,dawson-creek,Dawson Creek
+bc,delta,Delta
+bc,duncan,Duncan
+bc,fernie,Fernie
+bc,fort-st-john,Fort St John
+bc,golden,Golden
+bc,grand-forks,Grand Forks
+bc,hope,Hope
+bc,invermere,Invermere
+bc,kamloops,Kamloops
+bc,kelowna,Kelowna
+bc,kitimat,Kitimat
+bc,ladysmith,Ladysmith
+bc,lake-country,Lake Country
+bc,langley,Langley
+bc,maple-ridge,Maple Ridge
+bc,merritt,Merritt
+bc,mission,Mission
+bc,nanaimo,Nanaimo
+bc,nelson,Nelson
+bc,new-westminster,New Westminster
+bc,north-vancouver,North Vancouver
+bc,oliver,Oliver
+bc,osoyoos,Osoyoos
+bc,parksville,Parksville
+bc,penticton,Penticton
+bc,port-alberni,Port Alberni
+bc,port-coquitlam,Port Coquitlam
+bc,port-moody,Port Moody
+bc,powell-river,Powell River
+bc,prince-george,Prince George
+bc,princeton,Princeton
+bc,quesnel,Quesnel
+bc,revelstoke,Revelstoke
+bc,richmond,Richmond
+bc,rosedale,Rosedale
+bc,salmon-arm,Salmon Arm
+bc,sardis,Sardis
+bc,sicamous,Sicamous
+bc,sidney,Sidney
+bc,smithers,Smithers
+bc,squamish,Squamish
+bc,summerland,Summerland
+bc,surrey,Surrey
+bc,terrace,Terrace
+bc,trail,Trail
+bc,vancouver,Vancouver
+bc,vernon,Vernon
+bc,victoria,Victoria
+bc,west-vancouver,West Vancouver
+bc,west-kelowna,West Kelowna
+bc,whistler,Whistler
+bc,williams-lake,Williams Lake
+mb,brandon,Brandon
+mb,dauphin,Dauphin
+mb,east-st-paul,East St Paul
+mb,gimli,Gimli
+mb,morden,Morden
+mb,navin,Navin
+mb,neepawa,Neepawa
+mb,niverville,Niverville
+mb,portage-la-prairie,Portage La Prairie
+mb,selkirk,Selkirk
+mb,steinbach,Steinbach
+mb,swan-river,Swan River
+mb,the-pas,The Pas
+mb,thompson,Thompson
+mb,winkler,Winkler
+mb,winnipeg,Winnipeg
+nb,atholville,Atholville
+nb,bathurst,Bathurst
+nb,dieppe,Dieppe
+nb,edmundston,Edmundston
+nb,fredericton,Fredericton
+nb,miramichi,Miramichi
+nb,moncton,Moncton
+nb,oromocto,Oromocto
+nb,riverview,Riverview
+nb,rothesay,Rothesay
+nb,saint-john,Saint John
+nb,salisbury,Salisbury
+nb,shediac,Shediac
+nb,st-stephen,St Stephen
+nb,sussex,Sussex
+nb,woodstock,Woodstock
+nl,carbonear,Carbonear
+nl,deer-lake,Deer Lake
+nl,grand-falls-windsor,Grand Falls Windsor
+nl,happy-valley-goose-bay,Happy Valley Goose Bay
+nl,paradise,Paradise
+nl,st-johnaposs,St John Apos S
+nl,st-johns,St Johns
+ns,amherst,Amherst
+ns,antigonish,Antigonish
+ns,bridgewater,Bridgewater
+ns,dartmouth,Dartmouth
+ns,digby,Digby
+ns,fall-river,Fall River
+ns,greenwood,Greenwood
+ns,halifax,Halifax
+ns,lower-sackville,Lower Sackville
+ns,new-glasgow,New Glasgow
+ns,new-minas,New Minas
+ns,port-hawkesbury,Port Hawkesbury
+ns,stewiacke,Stewiacke
+ns,sydney,Sydney
+ns,truro,Truro
+ns,upper-tantallon,Upper Tantallon
+ns,westville,Westville
+ns,yarmouth,Yarmouth
+on,ajax,Ajax
+on,alexandria,Alexandria
+on,alliston,Alliston
+on,amherstburg,Amherstburg
+on,ancaster,Ancaster
+on,angus,Angus
+on,arnprior,Arnprior
+on,aurora,Aurora
+on,aylmer,Aylmer
+on,bancroft,Bancroft
+on,barrie,Barrie
+on,beamsville,Beamsville
+on,belleville,Belleville
+on,bolton,Bolton
+on,bowmanville,Bowmanville
+on,brampton,Brampton
+on,brantford,Brantford
+on,brockville,Brockville
+on,burlington,Burlington
+on,caledonia,Caledonia
+on,cambridge,Cambridge
+on,carleton-place,Carleton Place
+on,chatham,Chatham
+on,chelmsford,Chelmsford
+on,cobourg,Cobourg
+on,collingwood,Collingwood
+on,cornwall,Cornwall
+on,courtice,Courtice
+on,downsview,Downsview
+on,dryden,Dryden
+on,embrun,Embrun
+on,etobicoke,Etobicoke
+on,exeter,Exeter
+on,fergus,Fergus
+on,fort-frances,Fort Frances
+on,georgetown,Georgetown
+on,gloucester,Gloucester
+on,grand-bend,Grand Bend
+on,grimsby,Grimsby
+on,guelph,Guelph
+on,hamilton,Hamilton
+on,hawkesbury,Hawkesbury
+on,huntsville,Huntsville
+on,ingersoll,Ingersoll
+on,kanata,Kanata
+on,kemptville,Kemptville
+on,kenora,Kenora
+on,keswick,Keswick
+on,kincardine,Kincardine
+on,kingston,Kingston
+on,kingsville,Kingsville
+on,kitchener,Kitchener
+on,lambton-shores,Lambton Shores
+on,lindsay,Lindsay
+on,listowel,Listowel
+on,london,London
+on,markham,Markham
+on,meaford,Meaford
+on,midland,Midland
+on,milton,Milton
+on,minden,Minden
+on,mississauga,Mississauga
+on,napanee,Napanee
+on,nepean,Nepean
+on,newmarket,Newmarket
+on,niagara-falls,Niagara Falls
+on,niagara-on-the-lake,Niagara On The Lake
+on,north-bay,North Bay
+on,north-york,North York
+on,oakville,Oakville
+on,orangeville,Orangeville
+on,orillia,Orillia
+on,orleans,Orleans
+on,oshawa,Oshawa
+on,ottawa,Ottawa
+on,owen-sound,Owen Sound
+on,parry-sound,Parry Sound
+on,pembroke,Pembroke
+on,perth,Perth
+on,petawawa,Petawawa
+on,peterborough,Peterborough
+on,pickering,Pickering
+on,port-colborne,Port Colborne
+on,port-dover,Port Dover
+on,port-elgin,Port Elgin
+on,port-perry,Port Perry
+on,renfrew,Renfrew
+on,richmond-hill,Richmond Hill
+on,sarnia,Sarnia
+on,sauble-beach,Sauble Beach
+on,sault-ste-marie,Sault Ste Marie
+on,scarborough,Scarborough
+on,simcoe,Simcoe
+on,sioux-lookout,Sioux Lookout
+on,smiths-falls,Smiths Falls
+on,south-lancaster,South Lancaster
+on,st-catharines,St Catharines
+on,st-thomas,St Thomas
+on,stayner,Stayner
+on,stoney-creek,Stoney Creek
+on,stratford,Stratford
+on,strathroy,Strathroy
+on,sturgeon-falls,Sturgeon Falls
+on,sudbury,Sudbury
+on,thornhill,Thornhill
+on,thunder-bay,Thunder Bay
+on,tillsonburg,Tillsonburg
+on,toronto,Toronto
+on,trenton,Trenton
+on,unionville,Unionville
+on,val-caron,Val Caron
+on,vaughan,Vaughan
+on,walkerton,Walkerton
+on,wasaga-beach,Wasaga Beach
+on,waterdown,Waterdown
+on,waterloo,Waterloo
+on,welland,Welland
+on,weston,Weston
+on,whitby,Whitby
+on,windsor,Windsor
+on,woodstock,Woodstock
+pe,charlottetown,Charlottetown
+pe,summerside,Summerside
+qc,beauharnois,Beauharnois
+qc,beloeil,Beloeil
+qc,blainville,Blainville
+qc,boucherville,Boucherville
+qc,brossard,Brossard
+qc,chateauguay,Chateauguay
+qc,delson,Delson
+qc,deux-montagnes,Deux Montagnes
+qc,dollard-des-ormeaux,Dollard Des Ormeaux
+qc,drummondville,Drummondville
+qc,gatineau,Gatineau
+qc,greenfield-park,Greenfield Park
+qc,joliette,Joliette
+qc,lancienne-lorette,Lancienne Lorette
+qc,lile-perrot,Lile Perrot
+qc,la-prairie,La Prairie
+qc,lachine,Lachine
+qc,lachute,Lachute
+qc,lasalle,Lasalle
+qc,laval,Laval
+qc,lery,Lery
+qc,longueuil,Longueuil
+qc,mascouche,Mascouche
+qc,montreal,Montreal
+qc,montreal-nord,Montreal Nord
+qc,pierrefonds,Pierrefonds
+qc,quebec,Quebec
+qc,rigaud,Rigaud
+qc,saint-jean-sur-richelieu,Saint Jean Sur Richelieu
+qc,saint-jerome,Saint Jerome
+qc,saint-lazare,Saint Lazare
+qc,saint-leonard,Saint Leonard
+qc,sainte-therese,Sainte Therese
+qc,salaberry-de-valleyfield,Salaberry De Valleyfield
+qc,shawinigan,Shawinigan
+qc,sherbrooke,Sherbrooke
+qc,trois-rivieres,Trois Rivieres
+qc,vaudreuil-dorion,Vaudreuil Dorion
+qc,westmount,Westmount
+sk,carlyle,Carlyle
+sk,davidson,Davidson
+sk,emerald-park,Emerald Park
+sk,estevan,Estevan
+sk,fort-quappelle,Fort Quappelle
+sk,humboldt,Humboldt
+sk,indian-head,Indian Head
+sk,kindersley,Kindersley
+sk,la-ronge,La Ronge
+sk,macklin,Macklin
+sk,martensville,Martensville
+sk,meadow-lake,Meadow Lake
+sk,melfort,Melfort
+sk,moose-jaw,Moose Jaw
+sk,moosomin,Moosomin
+sk,nipawin,Nipawin
+sk,north-battleford,North Battleford
+sk,outlook,Outlook
+sk,prince-albert,Prince Albert
+sk,regina,Regina
+sk,rosetown,Rosetown
+sk,rosthern,Rosthern
+sk,saskatoon,Saskatoon
+sk,shellbrook,Shellbrook
+sk,swift-current,Swift Current
+sk,tisdale,Tisdale
+sk,wakaw,Wakaw
+sk,warman,Warman
+sk,weyburn,Weyburn
+sk,whitewood,Whitewood
+sk,yorkton,Yorkton
+yt,whitehorse,Whitehorse
