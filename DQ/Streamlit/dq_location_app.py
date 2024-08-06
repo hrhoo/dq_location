@@ -286,9 +286,11 @@ def main():
     # About
     with st.expander("About", expanded=True):
         st.write("This app shows the locations of Dairy Queen stores in Canada")
+        st.write("This app is built for PC and may not work properly on mobile devices")
         st.write(
             "The data was collected from Dairy Queen Canada website on July 26, 2024"
         )
+        
 
     # Tabs for the map and the chart
     tab_map, tab_chart = st.tabs(["Interactive Map", "Province Chart"])
