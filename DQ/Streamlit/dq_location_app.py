@@ -285,7 +285,8 @@ def main():
 
     # About
     with st.expander("About", expanded=True):
-        st.write("This app shows the locations of Dairy Queen stores in Canada")
+        st.write("Function: Showing the locations of Dairy Queen stores in Canada")
+        st.divider()
         st.write("This app is built for PC and may not work properly on mobile devices")
         st.write(
             "The data was collected from Dairy Queen Canada website on July 26, 2024"
