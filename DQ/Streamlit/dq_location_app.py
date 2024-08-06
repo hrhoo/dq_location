@@ -98,7 +98,7 @@ def double_map(df_location: pd.DataFrame, cad_geo: dict):
     }
     
     # main map m
-    m = fo.Map(location=START_LOCATION, zoom_start=4, max_bounds=True)
+    m = fo.Map(location=START_LOCATION, zoom_start=4)
 
     #process geojson data
     for each_prv in cad_geo["features"]:
